@@ -1,0 +1,3 @@
+cd tmp
+npm install
+friday.bat
