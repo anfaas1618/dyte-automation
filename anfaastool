@@ -1,5 +1,5 @@
 foldername=$2
-commitmsg=$3
+
 if [ $1 == "-update" ]
 then
     node ./index.js update $3 $4
